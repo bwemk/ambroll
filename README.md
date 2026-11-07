@@ -14,8 +14,6 @@ Just like Amberol, ambroll plays music, and nothing else.
 
 The recommended way of installing ambroll is to build from source.
 
-`meson build`
-
 
 Contributing
 ------------
